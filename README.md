@@ -1,6 +1,6 @@
 # Ripple
 
-A community oriented web applicated indented to promote acts of service and goodwill. Ripple provides daily inspiration for good deeds and hosts a community message board where users can advertise service opportunities.
+A community oriented web applicated indented to promote acts of service and goodwill. Ripple provides daily inspiration for good deeds and hosts a community message board where users can advertise service opportunities. The code for the web-app itself is located in `startup/`
 
 ### Elevator pitch
 
